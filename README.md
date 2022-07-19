@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://Alexxkzz.io)
+[![MasterHead](https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif)](https://Alexxkzz.io)
 <h1 align="center">Hi 👋, I'm Alexxkzz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
