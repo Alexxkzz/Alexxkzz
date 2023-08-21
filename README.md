@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **HTML ,CSS, Javascript ,Frontend Web Development,Bootstrap,PSD TO Html,Figma to html,HTML Emails**
 
-- 📫 How to reach me **pinkeshagrerider@gmail.com](https://www.youtube.com/@codediggger**
-
 - ⚡ Fun fact **I like cooking and I can cook variety of dishes.😎**
 
 <h3 align="left">Connect with me:</h3>
